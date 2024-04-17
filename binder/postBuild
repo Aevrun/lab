@@ -17,5 +17,3 @@ chmod +x coursier
 
 rm almond
 rm coursier
-
-jupyter contrib nbextension install --user
