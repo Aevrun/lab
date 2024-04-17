@@ -1,0 +1,8 @@
+name: lab-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - rise
+  - jupyter_nbextensions_configurator
+  - jupyter_contrib_nbextensions
