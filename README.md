@@ -19,7 +19,7 @@ As last resort, we also provide a script to install all dependencies that you ne
 - #### Binder:
     You can launch Binder with the launch button next to the heading or here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree)
 
-    Be aware that Binder will discard any work after 10 minutes of idle time. So you might want to switch to your local version at sometime, so you don't lose all your hard work.
+    Be aware that changes inside Binder are not persistent and will be gone once the session is terminated.
 
     Also this can take quite a while to start up. So you might want to make your coffee after you clicked the link.
 
