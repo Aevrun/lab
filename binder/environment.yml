@@ -5,3 +5,4 @@ dependencies:
   - python
   - jupyter_nbextensions_configurator
   - jupyter_contrib_nbextensions
+  - notebook==5.7.10
