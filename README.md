@@ -1,4 +1,4 @@
-# Labs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD)
+# Labs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree)
 
 The here published labs offer current tasks for the lecture.
 They are intended to be solved alongside the lecture in addition to the voluntary assignment sheet.
@@ -17,7 +17,7 @@ Make sure you have Docker installed and system privileges to run a container on 
 As last resort, we also provide a script to install all dependencies that you need to run the labs. Before you run this script please check if this script is suitable to your system and if not make changes to it. As you should always do with scripts that you didn't write yourself!!!
 
 - #### Binder:
-    You can launch Binder with the launch button next to the heading or here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD)
+    You can launch Binder with the launch button next to the heading or here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree)
 
     Be aware that Binder will discard any work after 10 minutes of idle time. So you might want to switch to your local version at sometime, so you don't lose all your hard work.
 
