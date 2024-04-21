@@ -27,13 +27,7 @@ As last resort, we also provide a script to install all dependencies that you ne
     Build the Dockerfile like this:
 
     ```
-    docker build --tag 'labs' .
-    ```
-
-    And then run it like this:
-
-    ```
-    docker run -p 8888:8888 labs:latest
+    docker compose up --build
     ```
 
     You should then be able to access your local notebook from [127.0.0.1:8888](127.0.0.1:8888).
