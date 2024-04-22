@@ -2,8 +2,9 @@
 
 The here published labs offer current tasks for the lecture.
 They are intended to be solved alongside the lecture in addition to the voluntary assignment sheet.
+The labs are expected to be helpful for the first project to make you more fluent with the tools used there.
 
-We don't plan to publish any solutions to the tasks since most tasks are tested inline for correctness so you can test yourself.
+The labs are given in Jupyter Notebooks. In a Jupyter Notebook, you work within cells, which can contain code, text, equations, or visualizations. You can write and execute code in the code cells, and the results are displayed directly below.
 
 If you have questions regarding an exercise, you can raise your question on the forum or open a ticket in this GitLab.
 
@@ -33,8 +34,11 @@ As last resort, we also provide a script to install all dependencies that you ne
     You should then be able to access your local notebook from [127.0.0.1:8888](127.0.0.1:8888).
 
 - #### install.sh:
-    As stated above make sure you know what you are doing, before you run this script.\
-    When you finished the installation you will be able to activate an environment via `source chisel_nb_env/bin/activate` and then start Jupyter via `jupyter notebook`.
+    As stated above make sure you know what you are doing, before you run this script.
+    The script should work without changes on Ubuntu and probably other Linux distributions.
+    There are commented out statements for Windows as python virtual environments are managed differently on Windows.
+    When you finished the installation you will be able to activate an environment on Linux via `source chisel_nb_env/bin/activate`, on Windows via 'chisel_nb_env/Scripts/activate'. And then start Jupyter via `jupyter notebook`. 
+
 
 ### Acknowledgements
 
