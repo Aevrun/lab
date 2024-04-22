@@ -12,6 +12,8 @@ RUN \
         graphviz \
         openjdk-8-jre-headless \
         python3-distutils \
+        gcc \
+        python3-dev \
         && \
     rm -rf /var/lib/apt/lists/*
 
