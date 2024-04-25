@@ -4,8 +4,10 @@ services:
       context: .
       dockerfile: Dockerfile
 
+    hostname: localhost
+
     ports:
-      - "8888:8888" # Jupyter
+      - "127.0.0.1:8888:8888" # Jupyter
 
     volumes:
       - .:/labs
