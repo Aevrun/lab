@@ -1,4 +1,4 @@
-# Scala and Chisel Labs for System Architecture 2024 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree)
+# Scala and Chisel Labs for System Architecture 2024 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree/labs)
 
 Here, we publish labs on a weekly basis to help you learn Scala and Chisel. 
 The labs are intended to be solved alongside the lecture in addition to the voluntary assignment sheet and will not be graded.
@@ -17,7 +17,7 @@ There are three ways in which the labs can be run and which are detailed below:
 ### Binder:
 
 You can launch Binder with the launch button next to the heading or here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.cs.uni-saarland.de%2Freineke%2Fsysarch-labs/HEAD?urlpath=tree/labs)
 
 Be aware that changes inside Binder are not persistent and will be gone once the session is terminated!
 
