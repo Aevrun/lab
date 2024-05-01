@@ -28,6 +28,7 @@ RUN  echo "Installing Python packages..." && \
 RUN jupyter contrib nbextension install --system
 
 RUN jupyter nbextension enable splitcell/splitcell --system
+RUN jupyter nbextension enable exercise2/main --system
 
 ENV SCALA_VERSION=2.13.10
 ENV ALMOND_VERSION=0.13.14

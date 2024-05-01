@@ -10,4 +10,5 @@ services:
       - "127.0.0.1:8888:8888" # Jupyter
 
     volumes:
-      - .:/labs
+      - ./labs:/labs
+      - ./.cache:/home/lab/.cache
