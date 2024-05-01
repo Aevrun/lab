@@ -18,6 +18,5 @@ chmod +x coursier
 rm almond
 rm coursier
 
-jupyter contrib nbextension install --user
 # Turn on the exercise nbextension
 jupyter nbextension enable exercise2/main
