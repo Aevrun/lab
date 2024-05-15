@@ -2,6 +2,9 @@ interp.repositories() ::: List(
   coursierapi.MavenRepository.of("https://oss.sonatype.org/content/repositories/snapshots")
 )
 
+interp.configureCompiler(_.settings.YmacroAnnotations.value = true)
+
+
 import $ivy.`edu.berkeley.cs::chisel3:3.6.0`
 import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.6.0`
 import $ivy.`edu.berkeley.cs::chiseltest:0.6.2`
