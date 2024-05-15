@@ -44,4 +44,4 @@ When you finished the installation you will be able to activate an environment v
 
 ### Acknowledgements
 
-Materials and ideas are borrowed from the labs of the course [CSE 228A - Agile Hardware Design](https://classes.soe.ucsc.edu/cse228a/Winter24/) from [UCSC](https://www.ucsc.edu/). Be aware that lab material can significantly differ, though you might still want to take a look at it out of interest.
+Materials and ideas are borrowed from the labs of the course [CSE 228A - Agile Hardware Design](https://classes.soe.ucsc.edu/cse228a/Winter24/) at [UCSC](https://www.ucsc.edu/). However, be aware that their lab material can differ significantly from ours, though you might still want to take a look at it out of interest.
